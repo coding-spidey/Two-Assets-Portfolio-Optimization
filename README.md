@@ -1,6 +1,8 @@
 # Two-Assets-Portfolio-Optimization
-Two Assets Portfolio Optimization using Markowitz Model. This is the implementation of Two assets portfolio optimization. It takes data of two assets of any company and based on some standard portfolios, gives the most optimized portfolio in terms of risk to return ratio as output.\\
-It even plots the graph of the different portfolios.\\
+Two Assets Portfolio Optimization using Markowitz Model. This is the implementation of Two assets portfolio optimization. It takes data of two assets of any company and based on some standard portfolios, gives the most optimized portfolio in terms of risk to return ratio as output.\
+
+It even plots the graph of the different portfolios.\
+
 We have taken the data of Apollo Hospitals and Vanguard group to demonstrate two different portfolio model and to study the effect of Covid-19 on the shares of Apollo Hospital.\
 We saw that the stock prices of Apollo Hospital have
 seen a significant amount of rise in recent times which is a clear
